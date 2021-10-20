@@ -1,0 +1,171 @@
+﻿  entry.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\vector.hpp(353,8): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\vector.hpp(354,8): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\fgui\FInput.hpp(25,64): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\fgui\FRenderer.hpp(15,17): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(103,23): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(107,15): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,81): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,69): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,102): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,94): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(118,86): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(118,73): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(119,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(126,101): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(126,86): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(130,152): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(130,132): warning C4244: "Argument": Konvertierung von "double" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(132,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(136,130): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(136,115): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(137,22): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(144,87): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(144,72): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(146,22): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(152,91): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(152,78): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(153,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(159,90): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(159,75): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(160,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(166,103): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(166,90): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(172,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(178,91): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(178,76): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(179,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(185,117): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(185,102): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(186,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(247,29): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(251,29): warning C4244: "-=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(272,29): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(274,29): warning C4244: "-=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(276,28): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\wrapper.hpp(39,11): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\wrapper.hpp(39,11): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(34,7): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(73,8): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(116,8): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(161,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(175,8): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(275,34): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(308,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(322,35): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(352,35): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(238,1): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(394,1): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1703,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1784,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1842,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1847,1): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1926,1): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "char", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1968,78): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\other.hpp(16,20): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\other.hpp(68,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\utils\math.hpp(60,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\utils\math.hpp(71,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\utils\math.hpp(71,18): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(15,36): warning C4244: "=": Konvertierung von "float" in "LONG", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(16,36): warning C4244: "=": Konvertierung von "float" in "LONG", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(22,22): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(23,22): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(114,93): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(114,68): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(114,43): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(149,77): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(149,54): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(149,31): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(157,19): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(158,19): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(159,34): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(160,34): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(173,31): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(175,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(176,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(176,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(177,106): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(177,98): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(257,35): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(259,81): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(260,81): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(260,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(261,102): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(261,94): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(269,28): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(393,101): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(394,113): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(395,120): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(396,112): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(397,113): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(398,120): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(399,112): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(400,105): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(401,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(402,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(403,106): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(404,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(405,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(406,106): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(407,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(408,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(502,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\aimutils.hpp(62,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\hooks.hpp(251,106): warning C4554: "&": Überprüfen Sie die Operatorrangfolge auf mögliche Fehler. Verwenden Sie Klammern, um die Rangfolge zu verdeutlichen.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\hooks.hpp(315,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\entry.cpp(231,101): warning C4191: "reinterpret_cast": Unsichere Konvertierung von "void (__cdecl *)(void)" in "LPTHREAD_START_ROUTINE"
+          Der Aufruf dieser Funktion über den Ergebniszeiger kann zur fehlerhaften Ausführung Ihres Programms führen
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1762,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(191): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T *BasePlayer::GetHeldEntity<BaseProjectile>(void)" der Funktions-Vorlage.
+          with
+          [
+              T=BaseProjectile
+          ]
+  Code wird generiert.
+  547 of 7149 functions ( 7.7%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    161 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+detours.lib(detours.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(detours.obj)" oder an "C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\x64\Release\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+detours.lib(modules.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(modules.obj)" oder an "C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\x64\Release\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+detours.lib(disasm.obj) : warning LNK4099: PDB "detours.pdb" wurde nicht mit "detours.lib(disasm.obj)" oder an "C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\x64\Release\detours.pdb" gefunden; Objekt wird verknüpft, als ob keine Debuginformationen vorhanden wären.
+  nanohack.vcxproj -> C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\x64\Release\nanohack.dll

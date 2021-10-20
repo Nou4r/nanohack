@@ -1,0 +1,626 @@
+﻿  auth.cpp
+  bearer.cpp
+  cookies.cpp
+  cprtypes.cpp
+  curlholder.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\cpr\curlholder.cpp(32,66): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\cpr\curlholder.cpp(43,77): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  curl_container.cpp
+  error.cpp
+  multipart.cpp
+  parameters.cpp
+  payload.cpp
+  proxies.cpp
+  proxyauth.cpp
+  response.cpp
+  session.cpp
+  timeout.cpp
+  unix_socket.cpp
+  util.cpp
+  entry.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\vector.hpp(353,8): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\vector.hpp(354,8): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\fgui\FInput.hpp(25,64): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\fgui\FRenderer.hpp(15,17): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(103,23): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(107,15): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,81): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,69): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,102): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(112,94): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(118,86): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(118,73): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(119,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(126,101): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(126,86): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(130,152): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(130,132): warning C4244: "Argument": Konvertierung von "double" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(132,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(136,130): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(136,115): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(137,22): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(144,87): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(144,72): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(146,22): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(152,91): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(152,78): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(153,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(159,90): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(159,75): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(160,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(166,103): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(166,90): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(172,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(178,91): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(178,76): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(179,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(185,117): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(185,102): warning C4244: "Argument": Konvertierung von "float" in "unsigned int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(186,21): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(247,29): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(251,29): warning C4244: "-=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(272,29): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(274,29): warning C4244: "-=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\drawing\ui.hpp(276,28): warning C4244: "+=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\wrapper.hpp(39,11): warning C4200: Nicht dem Standard entsprechende Erweiterung: Null-Array in Struktur/Union
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\wrapper.hpp(39,11): message : Dieser Member wird vom Standardkonstruktor oder Zuweisungsoperator für Kopieren/Verschieben ignoriert.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(34,7): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(73,8): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(116,8): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(161,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(175,8): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(275,34): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(308,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(322,35): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\il2cpp\dissector.hpp(352,35): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(238,1): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(394,1): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1703,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1784,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1842,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1847,1): warning C4267: "Argument": Konvertierung von "size_t" nach "uint32_t", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1926,1): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "char", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1968,78): warning C4244: "Argument": Konvertierung von "uint64_t" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\other.hpp(16,20): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\other.hpp(68,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\utils\math.hpp(60,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\utils\math.hpp(71,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\utils\math.hpp(71,18): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(15,36): warning C4244: "=": Konvertierung von "float" in "LONG", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(16,36): warning C4244: "=": Konvertierung von "float" in "LONG", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(22,22): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(23,22): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(114,93): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(114,68): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(114,43): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(149,77): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(149,54): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(149,31): warning C4244: "Argument": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(157,19): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(158,19): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(159,34): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(160,34): warning C4244: "Argument": Konvertierung von "float" in "_Ty", möglicher Datenverlust
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(173,31): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(175,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(176,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(176,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(177,106): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(177,98): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(257,35): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(259,81): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(260,81): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(260,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(261,102): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(261,94): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(269,28): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(393,101): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(394,113): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(395,120): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(396,112): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(397,113): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(398,120): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(399,112): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(400,105): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(401,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(402,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(403,106): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(404,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(405,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(406,106): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(407,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(408,104): warning C4305: "Argument": Verkürzung von "float" in "bool"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(502,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\aimutils.hpp(62,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\hooks.hpp(251,106): warning C4554: "&": Überprüfen Sie die Operatorrangfolge auf mögliche Fehler. Verwenden Sie Klammern, um die Rangfolge zu verdeutlichen.
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\hooks.hpp(315,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\entry.cpp(277,101): warning C4191: "reinterpret_cast": Unsichere Konvertierung von "void (__cdecl *)(void)" in "LPTHREAD_START_ROUTINE"
+          Der Aufruf dieser Funktion über den Ergebniszeiger kann zur fehlerhaften Ausführung Ihres Programms führen
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\sdk\game.hpp(1762,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(191): message : Siehe Verweis auf die gerade kompilierte Instanziierung "T *BasePlayer::GetHeldEntity<BaseProjectile>(void)" der Funktions-Vorlage.
+          with
+          [
+              T=BaseProjectile
+          ]
+  button.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+  checkbox.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+  Code wird generiert...
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\core\main\entities.hpp(95): warning C4715: "entities::get_color": Nicht alle Codepfade geben einen Wert zurück.
+  Kompilieren...
+  colorpicker.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(71,160): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(74,167): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(76,162): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(83,143): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(96,125): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(100,126): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\colorpicker.cpp(153,44): warning C4244: "=": Konvertierung von "const _Ty" in "uint8_t", möglicher Datenverlust
+          with
+          [
+              _Ty=float
+          ]
+  combobox.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\combobox.cpp(95,170): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\combobox.cpp(96,189): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\combobox.cpp(130,96): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  container.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\container.cpp(210,164): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\container.cpp(210,127): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  keybinder.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\keybinder.cpp(87,12): warning C4267: "Argument": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\keybinder.cpp(129,26): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  label.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+  listbox.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\listbox.cpp(127,113): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\listbox.cpp(131,150): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\listbox.cpp(131,113): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\listbox.cpp(158,44): warning C4244: "-=": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\listbox.cpp(163,47): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  multibox.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\multibox.cpp(113,172): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\multibox.cpp(114,194): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\multibox.cpp(148,96): warning C4267: "=": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  slider.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\slider.cpp(67,112): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\slider.cpp(87,49): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\slider.cpp(96,43): warning C4244: "=": Konvertierung von "int" in "float", möglicher Datenverlust
+  tabpanel.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+  textbox.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\textbox.cpp(116,20): warning C4267: "Argument": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\widgets\textbox.cpp(271,74): warning C4267: "=": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  widgets.cpp
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,47): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,39): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(62,23): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(79,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(83,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(87,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(91,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,43): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(95,30): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,63): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,50): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\nanohack\FGUI\internal\definitions.hpp(99,37): warning C4244: "Argument": Konvertierung von "float" in "uint8_t", möglicher Datenverlust
+  Code wird generiert...
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_formfree" in Funktion ""public: __cdecl cpr::CurlHolder::~CurlHolder(void)" (??1CurlHolder@cpr@@QEAA@XZ)".
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_easy_escape" in Funktion ""public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl cpr::CurlHolder::urlEncode(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)const " (?urlEncode@CurlHolder@cpr@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z)".
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_easy_unescape" in Funktion ""public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl cpr::CurlHolder::urlDecode(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)const " (?urlDecode@CurlHolder@cpr@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z)".
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_free" in Funktion ""public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl cpr::CurlHolder::urlDecode(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)const " (?urlDecode@CurlHolder@cpr@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV34@@Z)".
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_slist_free_all" in Funktion ""public: __cdecl cpr::CurlHolder::~CurlHolder(void)" (??1CurlHolder@cpr@@QEAA@XZ)".
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_easy_init" in Funktion ""public: __cdecl cpr::CurlHolder::CurlHolder(void)" (??0CurlHolder@cpr@@QEAA@XZ)".
+curlholder.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "curl_easy_cleanup" in Funktion ""public: __cdecl cpr::CurlHolder::~CurlHolder(void)" (??1CurlHolder@cpr@@QEAA@XZ)".
+response.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_easy_getinfo" in Funktion ""public: __cdecl cpr::Response::Response(class std::shared_ptr<struct cpr::CurlHolder>,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &&,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > &&,class cpr::Cookies &&,class cpr::Error &&)" (??0Response@cpr@@QEAA@V?$shared_ptr@UCurlHolder@cpr@@@std@@$$QEAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@1$$QEAVCookies@1@$$QEAVError@1@@Z)".
+session.obj : error LNK2001: Nicht aufgelöstes externes Symbol "__imp_curl_easy_getinfo".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_formadd" in Funktion ""public: void __cdecl cpr::Session::Impl::SetMultipart(class cpr::Multipart &&)" (?SetMultipart@Impl@Session@cpr@@QEAAX$$QEAVMultipart@3@@Z)".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_formfree" in Funktion ""public: void __cdecl cpr::Session::Impl::SetMultipart(class cpr::Multipart &&)" (?SetMultipart@Impl@Session@cpr@@QEAAX$$QEAVMultipart@3@@Z)".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_slist_append" in Funktion ""private: void __cdecl cpr::Session::Impl::SetHeaderInternal(void)" (?SetHeaderInternal@Impl@Session@cpr@@AEAAXXZ)".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_slist_free_all" in Funktion ""public: class cpr::Response __cdecl cpr::Session::Impl::Complete(enum CURLcode)" (?Complete@Impl@Session@cpr@@QEAA?AVResponse@3@W4CURLcode@@@Z)".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_version_info" in Funktion ""public: __cdecl cpr::Session::Impl::Impl(void)" (??0Impl@Session@cpr@@QEAA@XZ)".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_easy_setopt" in Funktion ""public: __cdecl cpr::Session::Impl::Impl(void)" (??0Impl@Session@cpr@@QEAA@XZ)".
+session.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp_curl_easy_perform" in Funktion ""private: class cpr::Response __cdecl cpr::Session::Impl::makeDownloadRequest(void)" (?makeDownloadRequest@Impl@Session@cpr@@AEAA?AVResponse@3@XZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl CryptoPP::Algorithm::Algorithm(bool)" (??0Algorithm@CryptoPP@@QEAA@_N@Z)" in Funktion ""public: __cdecl CryptoPP::BlockTransformation::BlockTransformation(void)" (??0BlockTransformation@CryptoPP@@QEAA@XZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::SimpleKeyingInterface::SetKey(unsigned char const *,unsigned __int64,class CryptoPP::NameValuePairs const &)" (?SetKey@SimpleKeyingInterface@CryptoPP@@UEAAXPEBE_KAEBVNameValuePairs@2@@Z)" in Funktion ""public: __cdecl CryptoPP::CipherModeFinalTemplate_CipherHolder<class CryptoPP::BlockCipherFinal<1,class CryptoPP::Rijndael::Dec>,class CryptoPP::CBC_Decryption>::CipherModeFinalTemplate_CipherHolder<class CryptoPP::BlockCipherFinal<1,class CryptoPP::Rijndael::Dec>,class CryptoPP::CBC_Decryption>(unsigned char const *,unsigned __int64,unsigned char const *)" (??0?$CipherModeFinalTemplate_CipherHolder@V?$BlockCipherFinal@$00VDec@Rijndael@CryptoPP@@@CryptoPP@@VCBC_Decryption@2@@CryptoPP@@QEAA@PEBE_K0@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::SimpleKeyingInterface::GetNextIV(class CryptoPP::RandomNumberGenerator &,unsigned char *)" (?GetNextIV@SimpleKeyingInterface@CryptoPP@@UEAAXAEAVRandomNumberGenerator@2@PEAE@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""protected: unsigned __int64 __cdecl CryptoPP::SimpleKeyingInterface::ThrowIfInvalidIVLength(int)" (?ThrowIfInvalidIVLength@SimpleKeyingInterface@CryptoPP@@IEAA_KH@Z)" in Funktion ""public: virtual void __cdecl CryptoPP::BlockOrientedCipherModeBase::Resynchronize(unsigned char const *,int)" (?Resynchronize@BlockOrientedCipherModeBase@CryptoPP@@UEAAXPEBEH@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::StreamTransformation::ProcessLastBlock(unsigned char *,unsigned __int64,unsigned char const *,unsigned __int64)" (?ProcessLastBlock@StreamTransformation@CryptoPP@@UEAA_KPEAE_KPEBE1@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::HashTransformation::TruncatedVerify(unsigned char const *,unsigned __int64)" (?TruncatedVerify@HashTransformation@CryptoPP@@UEAA_NPEBE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned int __cdecl CryptoPP::BufferedTransformation::GetMaxWaitObjectCount(void)const " (?GetMaxWaitObjectCount@BufferedTransformation@CryptoPP@@UEBAIXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BufferedTransformation::GetWaitObjects(class CryptoPP::WaitObjectContainer &,class CryptoPP::CallStack const &)" (?GetWaitObjects@BufferedTransformation@CryptoPP@@UEAAXAEAVWaitObjectContainer@2@AEBVCallStack@2@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BufferedTransformation::Initialize(class CryptoPP::NameValuePairs const &,int)" (?Initialize@BufferedTransformation@CryptoPP@@UEAAXAEBVNameValuePairs@2@H@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::Flush(bool,int,bool)" (?Flush@BufferedTransformation@CryptoPP@@UEAA_N_NH0@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::MessageSeriesEnd(int,bool)" (?MessageSeriesEnd@BufferedTransformation@CryptoPP@@UEAA_NH_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::MaxRetrievable(void)const " (?MaxRetrievable@BufferedTransformation@CryptoPP@@UEBA_KXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::AnyRetrievable(void)const " (?AnyRetrievable@BufferedTransformation@CryptoPP@@UEBA_NXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::Get(unsigned char &)" (?Get@BufferedTransformation@CryptoPP@@UEAA_KAEAE@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::Get(unsigned char *,unsigned __int64)" (?Get@BufferedTransformation@CryptoPP@@UEAA_KPEAE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::Peek(unsigned char &)const " (?Peek@BufferedTransformation@CryptoPP@@UEBA_KAEAE@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::Peek(unsigned char *,unsigned __int64)const " (?Peek@BufferedTransformation@CryptoPP@@UEBA_KPEAE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::Skip(unsigned __int64)" (?Skip@BufferedTransformation@CryptoPP@@UEAA_K_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::TotalBytesRetrievable(void)const " (?TotalBytesRetrievable@BufferedTransformation@CryptoPP@@UEBA_KXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned int __cdecl CryptoPP::BufferedTransformation::NumberOfMessages(void)const " (?NumberOfMessages@BufferedTransformation@CryptoPP@@UEBAIXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::AnyMessages(void)const " (?AnyMessages@BufferedTransformation@CryptoPP@@UEBA_NXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::GetNextMessage(void)" (?GetNextMessage@BufferedTransformation@CryptoPP@@UEAA_NXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned int __cdecl CryptoPP::BufferedTransformation::SkipMessages(unsigned int)" (?SkipMessages@BufferedTransformation@CryptoPP@@UEAAII@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BufferedTransformation::SkipAll(void)" (?SkipAll@BufferedTransformation@CryptoPP@@UEAAXXZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: unsigned __int64 __cdecl CryptoPP::BufferedTransformation::TransferMessagesTo2(class CryptoPP::BufferedTransformation &,unsigned int &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?TransferMessagesTo2@BufferedTransformation@CryptoPP@@QEAA_KAEAV12@AEAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)" in Funktion ""public: virtual unsigned __int64 __cdecl CryptoPP::SourceTemplate<class CryptoPP::StringStore>::PumpMessages2(unsigned int &,bool)" (?PumpMessages2@?$SourceTemplate@VStringStore@CryptoPP@@@CryptoPP@@UEAA_KAEAI_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: unsigned __int64 __cdecl CryptoPP::BufferedTransformation::TransferAllTo2(class CryptoPP::BufferedTransformation &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?TransferAllTo2@BufferedTransformation@CryptoPP@@QEAA_KAEAV12@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)" in Funktion ""public: virtual unsigned __int64 __cdecl CryptoPP::SourceTemplate<class CryptoPP::StringStore>::PumpAll2(bool)" (?PumpAll2@?$SourceTemplate@VStringStore@CryptoPP@@@CryptoPP@@UEAA_K_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned char * __cdecl CryptoPP::BufferedTransformation::ChannelCreatePutSpace(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned __int64 &)" (?ChannelCreatePutSpace@BufferedTransformation@CryptoPP@@UEAAPEAEAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEA_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::ChannelPut2(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned char const *,unsigned __int64,int,bool)" (?ChannelPut2@BufferedTransformation@CryptoPP@@UEAA_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEBE_KH_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BufferedTransformation::ChannelPutModifiable2(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned char *,unsigned __int64,int,bool)" (?ChannelPutModifiable2@BufferedTransformation@CryptoPP@@UEAA_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAE_KH_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::ChannelFlush(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool,int,bool)" (?ChannelFlush@BufferedTransformation@CryptoPP@@UEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_NH1@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::BufferedTransformation::ChannelMessageSeriesEnd(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,int,bool)" (?ChannelMessageSeriesEnd@BufferedTransformation@CryptoPP@@UEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BufferedTransformation::SetRetrievalChannel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?SetRetrievalChannel@BufferedTransformation@CryptoPP@@UEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BufferedTransformation::Attach(class CryptoPP::BufferedTransformation *)" (?Attach@BufferedTransformation@CryptoPP@@UEAAXPEAV12@@Z)" in Funktion ""class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Cryptography::SHA512(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SHA512@Cryptography@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void * __cdecl CryptoPP::AlignedAllocate(unsigned __int64)" (?AlignedAllocate@CryptoPP@@YAPEAX_K@Z)" in Funktion ""public: unsigned char * __cdecl CryptoPP::AllocatorWithCleanup<unsigned char,0>::allocate(unsigned __int64,void const *)" (?allocate@?$AllocatorWithCleanup@E$0A@@CryptoPP@@QEAAPEAE_KPEBX@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl CryptoPP::AlignedDeallocate(void *)" (?AlignedDeallocate@CryptoPP@@YAXPEAX@Z)" in Funktion ""public: void __cdecl CryptoPP::AllocatorWithCleanup<unsigned char,0>::deallocate(void *,unsigned __int64)" (?deallocate@?$AllocatorWithCleanup@E$0A@@CryptoPP@@QEAAXPEAX_K@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void * __cdecl CryptoPP::UnalignedAllocate(unsigned __int64)" (?UnalignedAllocate@CryptoPP@@YAPEAX_K@Z)" in Funktion ""public: unsigned char * __cdecl CryptoPP::AllocatorWithCleanup<unsigned char,0>::allocate(unsigned __int64,void const *)" (?allocate@?$AllocatorWithCleanup@E$0A@@CryptoPP@@QEAAPEAE_KPEBX@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""void __cdecl CryptoPP::UnalignedDeallocate(void *)" (?UnalignedDeallocate@CryptoPP@@YAXPEAX@Z)" in Funktion ""public: void __cdecl CryptoPP::AllocatorWithCleanup<unsigned char,0>::deallocate(void *,unsigned __int64)" (?deallocate@?$AllocatorWithCleanup@E$0A@@CryptoPP@@QEAAXPEAX_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::Store::GetNextMessage(void)" (?GetNextMessage@Store@CryptoPP@@UEAA_NXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::IteratedHashBase<unsigned __int64,class CryptoPP::HashTransformation>::Update(unsigned char const *,unsigned __int64)" (?Update@?$IteratedHashBase@_KVHashTransformation@CryptoPP@@@CryptoPP@@UEAAXPEBE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned char * __cdecl CryptoPP::IteratedHashBase<unsigned __int64,class CryptoPP::HashTransformation>::CreateUpdateSpace(unsigned __int64 &)" (?CreateUpdateSpace@?$IteratedHashBase@_KVHashTransformation@CryptoPP@@@CryptoPP@@UEAAPEAEAEA_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::IteratedHashBase<unsigned __int64,class CryptoPP::HashTransformation>::Restart(void)" (?Restart@?$IteratedHashBase@_KVHashTransformation@CryptoPP@@@CryptoPP@@UEAAXXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::IteratedHashBase<unsigned __int64,class CryptoPP::HashTransformation>::TruncatedFinal(unsigned char *,unsigned __int64)" (?TruncatedFinal@?$IteratedHashBase@_KVHashTransformation@CryptoPP@@@CryptoPP@@UEAAXPEAE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""protected: virtual unsigned __int64 __cdecl CryptoPP::IteratedHashBase<unsigned __int64,class CryptoPP::HashTransformation>::HashMultipleBlocks(unsigned __int64 const *,unsigned __int64)" (?HashMultipleBlocks@?$IteratedHashBase@_KVHashTransformation@CryptoPP@@@CryptoPP@@MEAA_KPEB_K_K@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: static void __cdecl CryptoPP::SHA512::InitState(unsigned __int64 *)" (?InitState@SHA512@CryptoPP@@SAXPEA_K@Z)" in Funktion ""protected: virtual void __cdecl CryptoPP::IteratedHashWithStaticTransform<unsigned __int64,struct CryptoPP::EnumToType<enum CryptoPP::ByteOrder,1>,128,64,class CryptoPP::SHA512,64,1>::Init(void)" (?Init@?$IteratedHashWithStaticTransform@_KU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0IA@$0EA@VSHA512@2@$0EA@$00@CryptoPP@@MEAAXXZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: static void __cdecl CryptoPP::SHA512::Transform(unsigned __int64 *,unsigned __int64 const *)" (?Transform@SHA512@CryptoPP@@SAXPEA_KPEB_K@Z)" in Funktion ""protected: virtual void __cdecl CryptoPP::IteratedHashWithStaticTransform<unsigned __int64,struct CryptoPP::EnumToType<enum CryptoPP::ByteOrder,1>,128,64,class CryptoPP::SHA512,64,1>::HashEndianCorrectedBlock(unsigned __int64 const *)" (?HashEndianCorrectedBlock@?$IteratedHashWithStaticTransform@_KU?$EnumToType@W4ByteOrder@CryptoPP@@$00@CryptoPP@@$0IA@$0EA@VSHA512@2@$0EA@$00@CryptoPP@@MEAAXPEB_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl CryptoPP::SHA512::AlgorithmProvider(void)const " (?AlgorithmProvider@SHA512@CryptoPP@@UEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""bool __cdecl CryptoPP::AssignIntToInteger(class type_info const &,void *,void const *)" (?AssignIntToInteger@CryptoPP@@YA_NAEBVtype_info@@PEAXPEBX@Z)" in Funktion ""public: virtual void __cdecl CryptoPP::AlgorithmParametersTemplate<int>::AssignValue(char const *,class type_info const &,void *)const " (?AssignValue@?$AlgorithmParametersTemplate@H@CryptoPP@@UEBAXPEBDAEBVtype_info@@PEAX@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl CryptoPP::AlgorithmParameters::AlgorithmParameters(void)" (??0AlgorithmParameters@CryptoPP@@QEAA@XZ)" in Funktion ""class CryptoPP::AlgorithmParameters __cdecl CryptoPP::MakeParameters<int const *>(char const *,int const * const &,bool)" (??$MakeParameters@PEBH@CryptoPP@@YA?AVAlgorithmParameters@0@PEBDAEBQEBH_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl CryptoPP::AlgorithmParameters::AlgorithmParameters(class CryptoPP::AlgorithmParameters const &)" (??0AlgorithmParameters@CryptoPP@@QEAA@AEBV01@@Z)" in Funktion ""class CryptoPP::AlgorithmParameters __cdecl CryptoPP::MakeParameters<int const *>(char const *,int const * const &,bool)" (??$MakeParameters@PEBH@CryptoPP@@YA?AVAlgorithmParameters@0@PEBDAEBQEBH_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl CryptoPP::Filter::Filter(class CryptoPP::BufferedTransformation *)" (??0Filter@CryptoPP@@QEAA@PEAVBufferedTransformation@1@@Z)" in Funktion ""public: __cdecl CryptoPP::Bufferless<class CryptoPP::Filter>::Bufferless<class CryptoPP::Filter>(void)" (??0?$Bufferless@VFilter@CryptoPP@@@CryptoPP@@QEAA@XZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual class CryptoPP::BufferedTransformation * __cdecl CryptoPP::Filter::AttachedTransformation(void)" (?AttachedTransformation@Filter@CryptoPP@@UEAAPEAVBufferedTransformation@2@XZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual class CryptoPP::BufferedTransformation const * __cdecl CryptoPP::Filter::AttachedTransformation(void)const " (?AttachedTransformation@Filter@CryptoPP@@UEBAPEBVBufferedTransformation@2@XZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Filter::Detach(class CryptoPP::BufferedTransformation *)" (?Detach@Filter@CryptoPP@@UEAAXPEAVBufferedTransformation@2@@Z)" in Funktion ""public: __cdecl CryptoPP::BaseN_Decoder::BaseN_Decoder(int const *,int,class CryptoPP::BufferedTransformation *)" (??0BaseN_Decoder@CryptoPP@@QEAA@PEBHHPEAVBufferedTransformation@1@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::Filter::TransferTo2(class CryptoPP::BufferedTransformation &,unsigned __int64 &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?TransferTo2@Filter@CryptoPP@@UEAA_KAEAVBufferedTransformation@2@AEA_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::Filter::CopyRangeTo2(class CryptoPP::BufferedTransformation &,unsigned __int64 &,unsigned __int64,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)const " (?CopyRangeTo2@Filter@CryptoPP@@UEBA_KAEAVBufferedTransformation@2@AEA_K_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Filter::Initialize(class CryptoPP::NameValuePairs const &,int)" (?Initialize@Filter@CryptoPP@@UEAAXAEBVNameValuePairs@2@H@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::Filter::Flush(bool,int,bool)" (?Flush@Filter@CryptoPP@@UEAA_N_NH0@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::Filter::MessageSeriesEnd(int,bool)" (?MessageSeriesEnd@Filter@CryptoPP@@UEAA_NH_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""protected: virtual class CryptoPP::BufferedTransformation * __cdecl CryptoPP::Filter::NewDefaultAttachment(void)const " (?NewDefaultAttachment@Filter@CryptoPP@@MEBAPEAVBufferedTransformation@2@XZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::FilterWithBufferedInput::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@FilterWithBufferedInput@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::FilterWithBufferedInput::IsolatedFlush(bool,bool)" (?IsolatedFlush@FilterWithBufferedInput@CryptoPP@@UEAA_N_N0@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""protected: virtual void __cdecl CryptoPP::FilterWithBufferedInput::NextPutMultiple(unsigned char const *,unsigned __int64)" (?NextPutMultiple@FilterWithBufferedInput@CryptoPP@@MEAAXPEBE_K@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""protected: unsigned __int64 __cdecl CryptoPP::FilterWithBufferedInput::PutMaybeModifiable(unsigned char *,unsigned __int64,int,bool,bool)" (?PutMaybeModifiable@FilterWithBufferedInput@CryptoPP@@IEAA_KPEAE_KH_N2@Z)" in Funktion ""public: virtual unsigned __int64 __cdecl CryptoPP::FilterWithBufferedInput::Put2(unsigned char const *,unsigned __int64,int,bool)" (?Put2@FilterWithBufferedInput@CryptoPP@@UEAA_KPEBE_KH_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl CryptoPP::StreamTransformationFilter::StreamTransformationFilter(class CryptoPP::StreamTransformation &,class CryptoPP::BufferedTransformation *,enum CryptoPP::BlockPaddingSchemeDef::BlockPaddingScheme)" (??0StreamTransformationFilter@CryptoPP@@QEAA@AEAVStreamTransformation@1@PEAVBufferedTransformation@1@W4BlockPaddingScheme@BlockPaddingSchemeDef@1@@Z)" in Funktion ""class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl Cryptography::DecryptData(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?DecryptData@Cryptography@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V23@00@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: __cdecl CryptoPP::ProxyFilter::ProxyFilter(class CryptoPP::BufferedTransformation *,unsigned __int64,unsigned __int64,class CryptoPP::BufferedTransformation *)" (??0ProxyFilter@CryptoPP@@QEAA@PEAVBufferedTransformation@1@_K10@Z)" in Funktion ""public: __cdecl CryptoPP::SimpleProxyFilter::SimpleProxyFilter(class CryptoPP::BufferedTransformation *,class CryptoPP::BufferedTransformation *)" (??0SimpleProxyFilter@CryptoPP@@QEAA@PEAVBufferedTransformation@1@0@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual bool __cdecl CryptoPP::ProxyFilter::IsolatedFlush(bool,bool)" (?IsolatedFlush@ProxyFilter@CryptoPP@@UEAA_N_N0@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::ProxyFilter::NextPutMultiple(unsigned char const *,unsigned __int64)" (?NextPutMultiple@ProxyFilter@CryptoPP@@UEAAXPEBE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::ProxyFilter::NextPutModifiable(unsigned char *,unsigned __int64)" (?NextPutModifiable@ProxyFilter@CryptoPP@@UEAAXPEAE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::StringStore::TransferTo2(class CryptoPP::BufferedTransformation &,unsigned __int64 &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)" (?TransferTo2@StringStore@CryptoPP@@UEAA_KAEAVBufferedTransformation@2@AEA_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::StringStore::CopyRangeTo2(class CryptoPP::BufferedTransformation &,unsigned __int64 &,unsigned __int64,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool)const " (?CopyRangeTo2@StringStore@CryptoPP@@UEBA_KAEAVBufferedTransformation@2@AEA_K_KAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""private: virtual void __cdecl CryptoPP::StringStore::StoreInitialize(class CryptoPP::NameValuePairs const &)" (?StoreInitialize@StringStore@CryptoPP@@EEAAXAEBVNameValuePairs@2@@Z)" in Funktion ""public: __cdecl CryptoPP::StringStore::StringStore(char const *)" (??0StringStore@CryptoPP@@QEAA@PEBD@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BaseN_Encoder::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@BaseN_Encoder@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BaseN_Encoder::Put2(unsigned char const *,unsigned __int64,int,bool)" (?Put2@BaseN_Encoder@CryptoPP@@UEAA_KPEBE_KH_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BaseN_Decoder::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@BaseN_Decoder@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)" in Funktion ""public: __cdecl CryptoPP::BaseN_Decoder::BaseN_Decoder(int const *,int,class CryptoPP::BufferedTransformation *)" (??0BaseN_Decoder@CryptoPP@@QEAA@PEBHHPEAVBufferedTransformation@1@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::BaseN_Decoder::Put2(unsigned char const *,unsigned __int64,int,bool)" (?Put2@BaseN_Decoder@CryptoPP@@UEAA_KPEBE_KH_N@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Grouper::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@Grouper@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::Grouper::Put2(unsigned char const *,unsigned __int64,int,bool)" (?Put2@Grouper@CryptoPP@@UEAA_KPEBE_KH_N@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::HexEncoder::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@HexEncoder@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)" in Funktion ""public: __cdecl CryptoPP::HexEncoder::HexEncoder(class CryptoPP::BufferedTransformation *,bool,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0HexEncoder@CryptoPP@@QEAA@PEAVBufferedTransformation@1@_NHAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Rijndael::Base::UncheckedSetKey(unsigned char const *,unsigned int,class CryptoPP::NameValuePairs const &)" (?UncheckedSetKey@Base@Rijndael@CryptoPP@@UEAAXPEBEIAEBVNameValuePairs@3@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl CryptoPP::Rijndael::Base::AlgorithmProvider(void)const " (?AlgorithmProvider@Base@Rijndael@CryptoPP@@UEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned int __cdecl CryptoPP::Rijndael::Base::OptimalDataAlignment(void)const " (?OptimalDataAlignment@Base@Rijndael@CryptoPP@@UEBAIXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Rijndael::Enc::ProcessAndXorBlock(unsigned char const *,unsigned char const *,unsigned char *)const " (?ProcessAndXorBlock@Enc@Rijndael@CryptoPP@@UEBAXPEBE0PEAE@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::Rijndael::Enc::AdvancedProcessBlocks(unsigned char const *,unsigned char const *,unsigned char *,unsigned __int64,unsigned int)const " (?AdvancedProcessBlocks@Enc@Rijndael@CryptoPP@@UEBA_KPEBE0PEAE_KI@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Rijndael::Dec::ProcessAndXorBlock(unsigned char const *,unsigned char const *,unsigned char *)const " (?ProcessAndXorBlock@Dec@Rijndael@CryptoPP@@UEBAXPEBE0PEAE@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual unsigned __int64 __cdecl CryptoPP::Rijndael::Dec::AdvancedProcessBlocks(unsigned char const *,unsigned char const *,unsigned char *,unsigned __int64,unsigned int)const " (?AdvancedProcessBlocks@Dec@Rijndael@CryptoPP@@UEBA_KPEBE0PEAE_KI@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::BlockOrientedCipherModeBase::UncheckedSetKey(unsigned char const *,unsigned int,class CryptoPP::NameValuePairs const &)" (?UncheckedSetKey@BlockOrientedCipherModeBase@CryptoPP@@UEAAXPEBEIAEBVNameValuePairs@2@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""protected: virtual void __cdecl CryptoPP::BlockOrientedCipherModeBase::ResizeBuffers(void)" (?ResizeBuffers@BlockOrientedCipherModeBase@CryptoPP@@MEAAXXZ)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::CBC_Encryption::ProcessData(unsigned char *,unsigned char const *,unsigned __int64)" (?ProcessData@CBC_Encryption@CryptoPP@@UEAAXPEAEPEBE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::CBC_Decryption::ProcessData(unsigned char *,unsigned char const *,unsigned __int64)" (?ProcessData@CBC_Decryption@CryptoPP@@UEAAXPEAEPEBE_K@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""protected: virtual void __cdecl CryptoPP::CBC_Decryption::ResizeBuffers(void)" (?ResizeBuffers@CBC_Decryption@CryptoPP@@MEAAXXZ)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Base64Encoder::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@Base64Encoder@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)" in Funktion ""public: __cdecl CryptoPP::Base64Encoder::Base64Encoder(class CryptoPP::BufferedTransformation *,bool,int)" (??0Base64Encoder@CryptoPP@@QEAA@PEAVBufferedTransformation@1@_NH@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""public: virtual void __cdecl CryptoPP::Base64Decoder::IsolatedInitialize(class CryptoPP::NameValuePairs const &)" (?IsolatedInitialize@Base64Decoder@CryptoPP@@UEAAXAEBVNameValuePairs@2@@Z)".
+entry.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""private: static int const * __cdecl CryptoPP::Base64Decoder::GetDecodingLookupArray(void)" (?GetDecodingLookupArray@Base64Decoder@CryptoPP@@CAPEBHXZ)" in Funktion ""public: __cdecl CryptoPP::Base64Decoder::Base64Decoder(class CryptoPP::BufferedTransformation *)" (??0Base64Decoder@CryptoPP@@QEAA@PEAVBufferedTransformation@1@@Z)".
+entry.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const CryptoPP::DEFAULT_CHANNEL" (?DEFAULT_CHANNEL@CryptoPP@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B)".
+C:\Users\Hannes\Downloads\nanohack-main\nanohack-main\x64\Debug\nanohack.dll : fatal error LNK1120: 109 nicht aufgelöste Externe
